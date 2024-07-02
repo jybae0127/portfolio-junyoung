@@ -1,0 +1,82 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in creating responsive and dynamic web interfaces using technologies such as HTML, CSS, JavaScript, and frameworks like React.",
+      "skills": "Tools: HTML, CSS, JavaScript, TypeScript, Node, React, Vue"
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "Business Analysis and Presentation",
+      "description": " Experienced in conducting business analysis, including gap analysis and data validation, and proficient in creating and delivering impactful presentations using Microsoft PowerPoint.",
+      "skills": "Tools: Microsoft Word, PowerPoint, Excel"
+    },
+    {
+      "id": "3",
+      "src": "./img/tag-1.png",
+      "title": "Data Analysis",
+      "description": "Experienced in utilizing data analysis tools to extract, analyze, and visualize data, helping in informed decision-making.",
+      "skills": "Tools: Python, SQL, and Tableu"
+    },
+    
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End Development",
+      "description": "Competent in building robust back-end systems with languages such as Python and Java, and experienced in database management and integration using SQL and Hadoop.",
+      "skills": "Tools: C++, C, Java"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "BoilerChat",
+      "description": "This project involved developing a full-stack social media platform focusing on user engagement through real-time interactions and comprehensive user management. The frontend is designed to be intuitive and visually appealing, using Java for the GUI components. The backend, implemented in Java, ensures efficient server-side functionalities supporting real-time user sessions and messaging.",
+      "link": "https://github.com/jybae0127/BoilerChat"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Data Analysis on Impact of Working Hours on Individual and Societal Perspectives",
+      "description": "This study examines the impact of working hours on both individual well-being and societal metrics, utilizing data from multiple international sources and analyzed using R Studio. The report specifically explores the context of South Korea, comparing it with other countries that have high and low average working hours.",
+      "link": "https://github.com/jybae0127/Data-Analysis-on-Impact-of-Working-Hours-on-Individual-and-Societal-Perspectives"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Portfolio Website",
+      "description": "A responsive personal portfolio website employing HTML, CSS, and JavaScript to feature a collection of projects with interactive design elements and smooth navigation.",
+      "link": "https://github.com/jybae0127/junyoung-bae-portfolio"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
