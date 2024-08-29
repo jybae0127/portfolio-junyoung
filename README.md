@@ -1,3 +1,6 @@
+# Portfolio-Website
+A responsive personal portfolio website employing HTML, CSS, and JavaScript to feature a collection of projects with interactive design elements and smooth navigation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
