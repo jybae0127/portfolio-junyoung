@@ -11,8 +11,8 @@ export default function HeroSection() {
             </h1>
             <p className="hero--section-description">
               I am a passionate Engineer and a senior majoring in
-              <br /> Computer Science and Information Systems 
-              <br /> Double Degree at The University of Hong Kong.
+              Computer Science and Information Systems 
+              Double Degree at The University of Hong Kong.
             </p>
           </div>
           <a href="./img/Junyoung_Bae_CV.pdf" download>
